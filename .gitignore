@@ -169,5 +169,5 @@ Temporary Items
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java,macos
 .idea/
 
-# /target/**.class
+# /target/
 /target/
