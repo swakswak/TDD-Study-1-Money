@@ -170,4 +170,4 @@ Temporary Items
 .idea/
 
 # .target/*/.class
-.target/
+/target/
